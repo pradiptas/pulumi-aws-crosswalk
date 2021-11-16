@@ -1,0 +1,1 @@
+Pulumi Crosswalk project : Deploy a container on ECS Fargate
